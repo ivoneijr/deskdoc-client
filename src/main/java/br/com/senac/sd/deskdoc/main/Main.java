@@ -40,7 +40,6 @@ public class Main extends Thread{
 //					Document doc = getConverter().toDocument(jsDocument);
 //				}
 				
-				
 				System.out.println();
 				
 			} catch (Exception e) {
